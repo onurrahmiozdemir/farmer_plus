@@ -5,12 +5,12 @@
 </p>
 
 
-### Tech
+## Tech
 
 - React
 
 - React-native
 
-### Logo
+## Logo
 
 "Icon made by Payungkead from www.flaticon.com"
