@@ -1,3 +1,7 @@
-<p align="center">
-  <p>Farmer Plus</p>
-</p>
+# Farmer Plus
+
+### Tech
+
+- React
+
+- React-native
