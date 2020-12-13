@@ -33,7 +33,11 @@ const App: () => React$Node = () => {
       <StatusBar backgroundColor="#4CAF50" barStyle="light-content" />
       <NavigationContainer>
         <Stack.Navigator headerMode="none" initialRouteName="Home">
-          <Stack.Screen name="Home" component={HomeScreen} />
+          <Stack.Screen
+            options={{headerStyle: {backgroundColor: '#4CAF50'}}}
+            name="Home"
+            component={HomeScreen}
+          />
         </Stack.Navigator>
       </NavigationContainer>
     </>
